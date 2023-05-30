@@ -41,7 +41,7 @@ class BookModel {
       favorite: false,
     ),
     BookModel(
-      image: "assets/images/book_3.jpeg",
+      image: "assets/images/book_3.jpg",
       secondImage: "assets/images/book_3.jpg",
       title: "The Power of Habit: Why We Do What We Do in Life and Business",
       subtitle: "Charles Duhigg",
